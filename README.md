@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Adir El Protfolio</h1>
+<h1>Ruhikesh  Protfolio</h1>
 
 <strong>One Page Website/Portfolio Template for Minimal Protfolio.</strong>
 
@@ -23,4 +23,4 @@
 
 ## License
 
-This project is licensed under the [**MIT License**](https://github.com/adirel/adirel.github.io/blob/master/LICENSE) 
+
